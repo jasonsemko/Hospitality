@@ -29,6 +29,6 @@ The goal of this app in a more low level setting is the following:
 - [Node Mailer](http://www.nodemailer.com/) - Mailer
 - [Twilio](http://www.twilio.com/) - SMS messenger
 - [Nodejitsu](https://www.nodejitsu.com/) - Web Host
-
+- [Grunt](http://gruntjs.com) - Automation
 ## Thoughts
 I do not like the idea of giving **every** user a login. The simple solution would involve member correspondence via email and text ONLY. For now if users need to edit they should contact administrators directly.
