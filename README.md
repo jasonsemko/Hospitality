@@ -15,12 +15,12 @@ The goal of this app in a more low level setting is the following:
 
 ### Phase 2
 - [ ] Add a login flow for administrators (Dan, Cathy)
-- [ ] Add all members with phone numbers and emails (_this will be hidden from google searches and bots_)
+- [ ] Add all members with phone numbers and emails. _this will be hidden from google searches and bots_
 - [ ] Use the site as a simple tracker
 
 ### Phase 3
 - [ ] Integrate website with twilio so members can be texted or emailed.
-- [ ] Send out weekly (_Thursday or Friday_) status reports for each mass.
+- [ ] Send out weekly _Thursday or Friday_ status reports for each mass.
 
 ## Thoughts
-I do not like the idea of giving every user a login. The simple solution would involve member correspondence via email and text ONLY. For now if users need to edit they should contact administrators directly.
+I do not like the idea of giving **every** user a login. The simple solution would involve member correspondence via email and text ONLY. For now if users need to edit they should contact administrators directly.
