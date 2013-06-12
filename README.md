@@ -11,16 +11,16 @@ The current system involves a hefty PDF document which contains dates and times 
 The goal of this app in a more low level setting is the following:
 
 ### Phase 1
-[] Create a static website for SM Hospitality
+- [ ] Create a static website for SM Hospitality
 
 ### Phase 2
-[] Add a login flow for administrators (Dan, Cathy)
-[] Add all members with phone numbers and emails (_this will be hidden from google searches and bots_)
-[] Use the site as a simple tracker
+- [ ] Add a login flow for administrators (Dan, Cathy)
+- [ ] Add all members with phone numbers and emails (_this will be hidden from google searches and bots_)
+- [ ] Use the site as a simple tracker
 
 ### Phase 3
-[] Integrate website with twilio so members can be texted or emailed.
-[] Send out weekly (_Thursday or Friday_) status reports for each mass.
+- [ ] Integrate website with twilio so members can be texted or emailed.
+- [ ] Send out weekly (_Thursday or Friday_) status reports for each mass.
 
 ## Thoughts
 I do not like the idea of giving every user a login. The simple solution would involve member correspondence via email and text ONLY. For now if users need to edit they should contact administrators directly.
