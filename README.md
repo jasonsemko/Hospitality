@@ -22,5 +22,13 @@ The goal of this app in a more low level setting is the following:
 - [ ] Integrate website with twilio so members can be texted or emailed.
 - [ ] Send out weekly _Thursday or Friday_ status reports for each mass.
 
+## Tools
+[NodeJS](http://nodejs.org) - Web Server
+[Mongo](http://mongodb.org) - Database
+[Mongoose](http://mongoosejs.com) - API between Mongo and Node
+[Node Mailer](http://www.nodemailer.com/) - Mailer
+[Twilio](http://www.twilio.com/) - SMS messenger
+[Nodejitsu](https://www.nodejitsu.com/) - Web Host
+
 ## Thoughts
 I do not like the idea of giving **every** user a login. The simple solution would involve member correspondence via email and text ONLY. For now if users need to edit they should contact administrators directly.
